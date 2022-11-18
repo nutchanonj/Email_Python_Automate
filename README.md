@@ -2,7 +2,7 @@
 
 Suppose that you are organizing your faculty's job fair, and you have this information to send as a CSV.
 
-![Time Slots](/images/timeslot.png)
+![Time Slots](timeslot.png)
 
 Suppose that there're over 100 companies participated. You have to send them relevant information to each company. Doing so manually could be daunting and risky of probable mistake (which can cost your faculty's reputation!) So, send them automatically is more safe.
 
